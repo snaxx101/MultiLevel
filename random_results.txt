@@ -1,0 +1,6 @@
+Time 1: Error=Page Fault: Page 8 exceeds limit 8
+Time 2: Physical=40161
+Time 3: Error=Page Fault: Page 9 exceeds limit 8
+Time 4: Error=Page Fault: Page 12 exceeds limit 8
+Time 5: Error=Protection Violation: Cannot write to read-only segment
+Page Fault Rate: 80%
